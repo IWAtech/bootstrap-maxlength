@@ -1,14 +1,25 @@
 {
-  "name": "bootstrap-maxlength",
-  "version": "1.5.0",
-  "main": "bootstrap-maxlength.js",
-  "ignore": [
-    "**/.*"
-  ],
-  "dependencies": {
-    "jquery": "~2.1.0"
-  },
-  "devDependencies": {
-    "qunit": "~1.14.0"
-  }
+	"name": "iwatech-bootstrap-maxlength",
+	"version": "1.5.2",
+	"main": "bootstrap-maxlength.js",
+	"homepage": "https://github.com/mimo84/bootstrap-maxlength",
+	"authors": [
+		{
+			"name": "Maurizio",
+			"homepage": "https://github.com/mimo84"
+		},
+		{
+			"name": "IWAtech",
+			"homepage": "https://github.com/IWAtech"
+		}
+	],
+	"ignore": [
+		"**/.*"
+	],
+	"dependencies": {
+		"jquery": "~2.1.0"
+	},
+	"devDependencies": {
+		"qunit": "~1.14.0"
+	}
 }
